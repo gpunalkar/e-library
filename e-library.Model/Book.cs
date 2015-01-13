@@ -1,5 +1,6 @@
-﻿using
+using System.ComponentModel.DataAnnotations;
 
+namespace e_library.Model
 {
     public class Book : Entity
     {
